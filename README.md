@@ -5,7 +5,7 @@ A simple and interactive **Body Mass Index (BMI) Calculator** built using **HTML
 ---
 
 ## 🚀 Live Demo
-[Click here to try the BMI Calculator](#https://karanraval636.github.io/Bmi_checker/)
+[Click here to try the BMI Calculator](https://karanraval636.github.io/Bmi_checker/)
 
 ---
 
