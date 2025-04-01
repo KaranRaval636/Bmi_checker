@@ -90,14 +90,14 @@ button {
   transition: 0.3s ease-in-out;
 }
 
-/* Updated Button Colors */
+
 #calculate {
-  background: #007bff; /* Deep Blue */
+  background: #005bb5; /* Darker shade of blue */
   color: white;
 }
 
 #clear {
-  background: #ff4d4d; /* Soft Red */
+  background: #009edb; /* Lighter shade of blue */
   color: white;
 }
 
